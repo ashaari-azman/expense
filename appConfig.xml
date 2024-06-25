@@ -1,0 +1,16 @@
+<appDefinition>
+   <appId>expense</appId>
+   <id>expense</id>
+   <version></version>
+   <name>expense</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList/>
+   <resourceList/>
+   <license>7WHpPHtTG1pLU3yA4M/2m7bJ+cy0Qr0OXHI0NV6LrqI5M+1A3fhLzw==</license>
+</appDefinition>
